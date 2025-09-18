@@ -28,7 +28,7 @@ header h1{
     padding: 20px;
     flex: 1;
     color: #FFFFFF;
-    align-items:start;
+    align-items:center;
     transition: transform 0.3s; 
     position:relative;
 }   
@@ -43,9 +43,7 @@ header h1{
     font-size: 14px
     ;
 }
-button{
-    align-self: center;
-}
+
 header {
     background-color:#1E202B;
     color: aqua ;
